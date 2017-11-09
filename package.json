@@ -1,6 +1,6 @@
 {
   "name": "imap-open-box",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Return a promise that resolves when the IMAP account box has opened.",
   "main": "index.js",
   "scripts": {
